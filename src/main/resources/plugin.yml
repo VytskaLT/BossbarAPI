@@ -1,0 +1,6 @@
+name: BossBarAPI
+version: 1.0
+author: VytskaLT
+description: 'A library for creating bossbars.'
+depend: [ProtocolLib]
+main: net.VytskaLT.BossBarAPI.BossBarAPI
